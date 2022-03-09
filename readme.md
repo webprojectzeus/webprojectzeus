@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm webprojectzeus</h1>
 <h3 align="center">A passionate frontend developer and wordpress developer from Thailand</h3>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <h3 align="left">Frontend Development</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
